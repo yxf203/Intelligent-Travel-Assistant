@@ -66,7 +66,7 @@ npm run dev
 
 🎨 **Enjoy the seamless UI experience!** 🎭✨
 
-🌐 **You can also explore the UI directly at** https://ff-ovo.fun/ 🚀🔗
+🌐 **You can also explore the UI directly at** https://qa-web-flame.vercel.app/ 🚀🔗(Big thanks to Vercel for making deployment so easy!)
 
 ## 📚 **References**
 

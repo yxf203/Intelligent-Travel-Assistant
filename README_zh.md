@@ -66,7 +66,7 @@ npm run dev
 
 🎨 **享受流畅的UI体验！** 🎭✨
 
-🌐 **也可以直接在以下网址探索UI：** https://ff-ovo.fun/ 🚀🔗
+🌐 **也可以直接在以下网址探索UI：**https://qa-web-flame.vercel.app/ 🚀🔗（感谢vercel平台便利的部署服务ovo！）
 
 ## 📚 **参考资料**
 
